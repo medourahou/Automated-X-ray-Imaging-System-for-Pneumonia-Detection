@@ -15,5 +15,5 @@ Common symptoms of pneumonia include:
   <li>sweating and shivering</li>
   <li>loss of appetite</li>
   <li>chest pain – which gets worse when breathing or coughing</li>
-
+ <li>...</li>
   </ul>
