@@ -7,8 +7,8 @@ The symptoms of pneumonia can develop suddenly over 24 to 48 hours, or they may 
 
 Common symptoms of pneumonia include:
 <ul>
-<li>a cough – which may be dry, or produce thick yellow, green, brown or blood-stained mucus (phlegm) </li>
- <li>difficulty breathing – your breathing may be rapid and shallow, and you may feel breathless, even when resting</li>
+<li>a cough – which may be dry, or produce thick yellow, green, brown, or blood-stained mucus (phlegm) </li>
+ <li> Difficulty breathing – your breathing may be rapid and shallow, and you may feel breathless, even when resting</li>
   <li>rapid heartbeat</li>
 <li>high temperature</li>
   <li>feeling generally unwell</li>
@@ -18,15 +18,15 @@ Common symptoms of pneumonia include:
  <li>...</li>
   </ul>
 <h2>3. Project description</h2>
-In this project I present a system to diagnosis and detect <b>Pneumonia</b> from human Chest based upon an X-Ray images dataset (X-ray imaging creates pictures of the inside of your body).<br>
-To analyse and process this images so I build a CNN model to train and test on the dataset, then I adjust the performance of the model by proceding Transfer Learning using VGG16.
+In this project, I present a system to diagnose and detect <b>Pneumonia</b> from a human Chest based upon an X-Ray images dataset (X-ray imaging creates pictures of the inside of your body).<br>
+To analyze and process these images so I build a CNN model to train and test on the dataset, then I adjust the performance of the model by providing Transfer Learning using VGG16.
 <h2>4. Dataset</h2>
 The dataset's name is Chest X-Ray Images (Pneumonia) got from Kaggle, here is the link <a href="http.com/paultimothymooney/chest-xray-pneumonia">link</a> .<br>
 <h2>5. Performance </h2>
 <pre>
 Summary
 --------------------------
-Loss     : 0.39%  
+Loss     : 0.39 
 Accuracy : 0.84%
 
 </pre>
