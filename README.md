@@ -1,4 +1,4 @@
-# A-based-X-ray-images-system-for-Pneumonia-detecion
+# An Automated X-ray Imaging System for Pneumonia Detection
 
 <h2> 1. Pneumonia definition</h2>
 Pneumonia is a form of acute respiratory infection that affects the lungs. The lungs are made up of small sacs called alveoli, which fill with air when a healthy person breathes. When an individual has pneumonia, the alveoli are filled with pus and fluid, which makes breathing painful and limits oxygen intake.
